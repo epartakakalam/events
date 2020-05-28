@@ -1,61 +1,30 @@
 {
   "events": [
     {
-      "id": 5928101,
+      "id": 1,
       "user": {
         "id": "abc123",
         "name": "Adam"
       },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Cat Cabaret",
-      "img1": "d20170609_04_UTLL_E3_Web_Module_Update_Plain_01.png",
-      "img2": "god-of-war-key-art-01-ps4-us-01nov17.jpg",
-      "img3": "pokemon-sword-switch-hero.jpg",
-      "img4": "maxresdefault (1).jpg",
-      "img5": "yjvd99ixYoQKhhCi3ASBiL-1200-80.jpg",
-      "location": "Meow Town",
-      "date": "2019-01-03T21:54:00.000Z",
-      "time": "2:00",
-      "attendees": []
+      "category": "Playstation"
     },
     {
-      "id": 8419988,
+      "id": 2,
       "user": {
         "id": "abc123",
         "name": "Adam"
       },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Nikos",
-      "img1": "yjvd99ixYoQKhhCi3ASBiL-1200-80.jpg",
-      "img2": "maxresdefault (1).jpg",
-      "img3": "d20170609_04_UTLL_E3_Web_Module_Update_Plain_01.png",
-      "img4": "god-of-war-key-art-01-ps4-us-01nov17.jpg",
-      "img5": "pokemon-sword-switch-hero.jpg",
-      "location": "Catlandia",
-      "date": "2019-01-31T22:09:00.000Z",
-      "time": "7:00",
-      "attendees": []
+      "category": "Xbox",
+     
     },
     {
-      "id": 4582797,
+      "id": 3,
       "user": {
         "id": "abc123",
         "name": "Adam"
       },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Puppy Parade",
-      "img1": "pokemon-sword-switch-hero.jpg",
-      "img2": "d20170609_04_UTLL_E3_Web_Module_Update_Plain_01.png",
-      "img3": "yjvd99ixYoQKhhCi3ASBiL-1200-80.jpg",
-      "img4": "god-of-war-key-art-01-ps4-us-01nov17.jpg",
-      "img5": "d20170609_04_UTLL_E3_Web_Module_Update_Plain_01.png",
-      "location": "Puptown ",
-      "date": "2019-02-02T23:27:00.000Z",
-      "time": "1:00",
-      "attendees": []
+      "category": "Nintendo",
+      
     }
   ]
 }
