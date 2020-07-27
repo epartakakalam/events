@@ -9,7 +9,8 @@
       "title": "Launch Trailer του Last Of Us Part 2",
       "content": "Παρακάτω θα παρακολουθήσετε το launch trailer του Last Of Us Part 2",
       "category": "Playstation",
-      "image": "d20170609_04_UTLL_E3_Web_Module_Update_Plain_01.png"
+      "image": "d20170609_04_UTLL_E3_Web_Module_Update_Plain_01.png",
+      "price": 100
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "title": "Launch Trailer του Last Of Us Part 2",
       "content": "Παρακάτω θα παρακολουθήσετε το launch trailer του Last Of Us Part 2",
       "category": "Xbox",
-      "image": "nature-3082832__340.jpg"
+      "image": "nature-3082832__340.jpg",
+      "price": 50
      
     },
     {
@@ -32,7 +34,8 @@
       "title": "Launch Trailer του Last Of Us Part 2",
       "content": "Παρακάτω θα παρακολουθήσετε το launch trailer του Last Of Us Part 2",
       "category": "Nintendo",
-      "image": "yjvd99ixYoQKhhCi3ASBiL-1200-80.jpg"
+      "image": "yjvd99ixYoQKhhCi3ASBiL-1200-80.jpg",
+      "price": 200
       
     }
   ]
