@@ -258,7 +258,8 @@
       "image": "yjvd99ixYoQKhhCi3ASBiL-1200-80.jpg",
       "price": 1
       
-    },{
+    },
+    {
       "id": 21,
       "user": {
         "id": "abc123",
@@ -348,6 +349,6 @@
       "image": "yjvd99ixYoQKhhCi3ASBiL-1200-80.jpg",
       "price": 1
       
-    },
+    }
   ]
 }
