@@ -245,31 +245,6 @@
       "image": "yjvd99ixYoQKhhCi3ASBiL-1200-80.jpg",
       "price": 20
       
-    },{
-      "id": 20,
-      "user": {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      "title": "Launch Trailer του Last Of Us Part 2",
-      "content": "Παρακάτω θα παρακολουθήσετε το launch trailer του Last Of Us Part 2",
-      "category": "Nintendo",
-      "image": "yjvd99ixYoQKhhCi3ASBiL-1200-80.jpg",
-      "price": 3
-      
-    },
-    {
-      "id": 21,
-      "user": {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      "title": "Launch Trailer του Last Of Us Part 2",
-      "content": "Παρακάτω θα παρακολουθήσετε το launch trailer του Last Of Us Part 2",
-      "category": "Nintendo",
-      "image": "yjvd99ixYoQKhhCi3ASBiL-1200-80.jpg",
-      "price": 4
-      
     }
   ]
 }
