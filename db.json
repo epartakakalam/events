@@ -271,45 +271,7 @@
       "image": "yjvd99ixYoQKhhCi3ASBiL-1200-80.jpg",
       "price": 20
       
-    },
-    {
-      "id": 21,
-      "user": {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      "title": "Launch Trailer του La",
-      "content": "Παρακάτω θα παρακολουθήσετε ",
-      "category": "Nintendo",
-      "image": "yjvd99ixYoQKhhCi3ASBiL-1200-80.jpg",
-      "price": 20
-      
-    },
-    {
-      "id": 22,
-      "user": {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      "title": "Launch Trailer του Last",
-      "content": "Παρακάτω θα παρακολουθήσετε το ",
-      "category": "Nintendo",
-      "image": "yjvd99ixYoQKhhCi3ASBiL-1200-80.jpg",
-      "price": 20
-      
-    },
-    {
-      "id": 23,
-      "user": {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      "title": "Launch Trailer του L",
-      "content": "Παρακάτω θα παρακολουθήσετε το launc",
-      "category": "Nintendo",
-      "image": "yjvd99ixYoQKhhCi3ASBiL-1200-80.jpg",
-      "price": 21
-      
     }
+ 
   ]
 }
